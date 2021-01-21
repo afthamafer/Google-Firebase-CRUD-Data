@@ -19,5 +19,5 @@ D - Delete the excisting data in the database.
 
 
 
-![](Preview1.JPG)
-![](Preview2.JPG)
+![](crudpreview1.png)
+![](crudpreview2.png)
