@@ -16,7 +16,7 @@ R - Read all the data that is added in the Database
 U - Update the excisting data in the database to your favour. 
 D - Delete the excisting data in the database.
 
-
+## See pictures
 
 
 ![](crudpreview1.png)
